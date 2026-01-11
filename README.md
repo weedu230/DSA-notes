@@ -1,6 +1,6 @@
 # Data Structures & Algorithms - Comprehensive Notes
 
-![DSA Banner](https://img.shields.io/badge/Data-Structures-blue) ![Algorithms](https://img.shields.io/badge/Algorithms-Advanced-green) ![University](https://img.shields.io/badge/University-Karachi%20Campus-orange)
+![DSA Banner](https://img.shields.io/badge/Data-Structures-blue) ![Algorithms](https://img.shields.io/badge/Algorithms-Advanced-green) ![University](https://img.shields.io/badge/Bahria-University-Karachi%20Campus-orange)
 
 A complete collection of structured notes covering fundamental to advanced topics in Data Structures & Algorithms, organized by weekly lectures. These notes serve as a comprehensive reference for students, developers, and coding interview preparation.
 
@@ -80,9 +80,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 **Acknowledgments**
 
-- **University**: Karachi Campus
+
 - **Course**: Data Structures & Algorithms
-- **Instructor**: [Name if available]
+
 - **Contributors**: All those who helped refine these notes
 
 ## 📞 **Contact**
